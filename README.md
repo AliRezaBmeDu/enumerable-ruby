@@ -22,9 +22,9 @@
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 Morse Decode <a name="about-project"></a>
+# 📖 Enumerable <a name="about-project"></a>
 
-**Morse Decode** is a ruby written program to decode any morse message. It takes up any morse coded letters, word or message and spits out the decoded letter, word and message.
+**Enumerable** is a ruby written program to replicate a ruby module enumerable. It reproduces three ruby enumerable methods and test those successfully.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -56,7 +56,8 @@
 ### Key Features <a name="key-features"></a>
 
 - **DRY method**
-- **Methods for decoding morse coded message**
+- **Methods for the module enumerable**
+- **Test file**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -74,13 +75,13 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-https://github.com/firstpj/Morse-code.git
+https://github.com/firstpj/enumerable-ruby.git
 
 ### Install
 
 
 ```sh
-  cd Morse-Code
+  cd enumerable-ruby
   bundle install
 ```
 
@@ -90,7 +91,7 @@ https://github.com/firstpj/Morse-code.git
 To run the project, execute the following steps:
 
 ```sh
-  ruby decode.rb
+  ruby test_file.rb
 ```
 
 
@@ -132,7 +133,7 @@ To run the project, execute the following steps:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/AliRezaBmeDu/Morse-code/issues).
+Feel free to check the [issues page](https://github.com/AliRezaBmeDu/enumerable-ruby/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
